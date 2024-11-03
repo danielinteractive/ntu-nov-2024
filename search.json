@@ -1,0 +1,247 @@
+[
+  {
+    "objectID": "index.html#objective-of-this-talk",
+    "href": "index.html#objective-of-this-talk",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Objective of this talk",
+    "text": "Objective of this talk\n\n\nI would like to inspire you with my career path\nI would like to motivate you for the following programming lectures\nI would like you to strive to get yourself savvy in good software engineering practices and apply them in your projects\nI would like you to influence your statistics colleagues and departments in your organizations"
+  },
+  {
+    "objectID": "index.html#my-path-to-statistics",
+    "href": "index.html#my-path-to-statistics",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "My path to Statistics",
+    "text": "My path to Statistics\n\n\nI was good in math and I really liked stochastics\n(“What is the chance of winning the lottery?”)\nBut I always had fun programming\n(Remember those days of Basic and Turbo Pascal?)\nI was also interested in medicine …\n… but I could faint when watching somebody draw blood from my arm\nSo I chose statistics because I could combine math and programming, and work with medical data!\nI was formally trained as a statistician (B.Sc., M.Sc., Ph.D.)\nI started working in the Pharma industry as a biostatistician"
+  },
+  {
+    "objectID": "index.html#what-i-did-not-do-during-those-first-years",
+    "href": "index.html#what-i-did-not-do-during-those-first-years",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "What I did not do during those first years",
+    "text": "What I did not do during those first years\n\n\nI did not store my programs in version control systems\nI did not worry too much about making my code readable by others\nI did not try to make calculations reproducible\nI did not get any code review of my simulations\nI did not write any unit tests for my packages"
+  },
+  {
+    "objectID": "index.html#some-tricks-i-learned-in-google",
+    "href": "index.html#some-tricks-i-learned-in-google",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Some tricks I learned in Google",
+    "text": "Some tricks I learned in Google\n\n\nAfter about 5 years I had the opportunity to switch gears and work at Google\nI learned a lot quickly about:\n\nhow to write unit tests\nhow to use a consistent code style\n\nhow to write design documents\nhow to name functions\nhow to review code and respond to review feedback\nhow to check in code into the (internal) repository\n\nAlso, but not that important:\n\nhow to write SQL queries, macros, unit tests for those\ngot to know memes and how to create new ones"
+  },
+  {
+    "objectID": "index.html#but-healthcare-was-more-fun-for-me",
+    "href": "index.html#but-healthcare-was-more-fun-for-me",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "But Healthcare was more fun for me",
+    "text": "But Healthcare was more fun for me\n\n\nI really liked that I did a lot of programming in a structured way in Google\nBut I missed the scientific aspects from Healthcare …\n… where we deal not just with numbers, but also biology, medicine, patients, medical doctors, etc.\nAnd Roche just started venturing more into R territory\n\nSo I switched back to Roche, because it is a great place to work\nAnd I see lots of potential to apply Tech skills in Healthcare!\n⇨ This is the topic this presentation\n⇨ How can we improve the way we work with code in Healthcare?"
+  },
+  {
+    "objectID": "index.html#started-our-own-consulting-company",
+    "href": "index.html#started-our-own-consulting-company",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Started our own Consulting Company",
+    "text": "Started our own Consulting Company\n\n\nBackground: Wanted to relocate (at least for a couple of years) to Taiwan\nIdea: Be able to work in Taiwan by doing remote statistical consulting\nFounded RCONIS in the middle of this year\nFocus on statistical software and statistical consulting\nWebsite: rconis.com"
+  },
+  {
+    "objectID": "index.html#rconis-team",
+    "href": "index.html#rconis-team",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "RCONIS Team",
+    "text": "RCONIS Team"
+  },
+  {
+    "objectID": "index.html#banking-example",
+    "href": "index.html#banking-example",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Banking example",
+    "text": "Banking example\n\nhttps://techhq.com/2024/01/what-role-does-tech-play-in-the-post-office-scandal"
+  },
+  {
+    "objectID": "index.html#banking-example-contd",
+    "href": "index.html#banking-example-contd",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Banking example (cont’d)",
+    "text": "Banking example (cont’d)\n\nhttps://www.bbc.com/news/business-56718036"
+  },
+  {
+    "objectID": "index.html#banking-example-contd-1",
+    "href": "index.html#banking-example-contd-1",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Banking example (cont’d)",
+    "text": "Banking example (cont’d)\n\nhttps://www.theguardian.com/uk-news/2024/jan/09/how-the-post-offices-horizon-system-failed-a-technical-breakdown"
+  },
+  {
+    "objectID": "index.html#politics-example",
+    "href": "index.html#politics-example",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Politics example",
+    "text": "Politics example\n\nhttps://www.swissinfo.ch/eng/swiss-government-corrects-election-figures-on-political-party-strength/48924206"
+  },
+  {
+    "objectID": "index.html#politics-example-contd",
+    "href": "index.html#politics-example-contd",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Politics example (cont’d)",
+    "text": "Politics example (cont’d)\n\nhttps://www.swissinfo.ch/eng/swiss-government-corrects-election-figures-on-political-party-strength/48924206"
+  },
+  {
+    "objectID": "index.html#another-example-now-from-biostatistics",
+    "href": "index.html#another-example-now-from-biostatistics",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Another example, now from biostatistics",
+    "text": "Another example, now from biostatistics\n\nhttps://jamanetwork.com/journals/jama/fullarticle/2752474"
+  },
+  {
+    "objectID": "index.html#another-example-now-from-biostatistics-contd",
+    "href": "index.html#another-example-now-from-biostatistics-contd",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Another example, now from biostatistics (cont’d)",
+    "text": "Another example, now from biostatistics (cont’d)\n\nhttps://jamanetwork.com/journals/jama/fullarticle/2752474"
+  },
+  {
+    "objectID": "index.html#another-example-now-from-biostatistics-contd-1",
+    "href": "index.html#another-example-now-from-biostatistics-contd-1",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Another example, now from biostatistics (cont’d)",
+    "text": "Another example, now from biostatistics (cont’d)\n\nhttps://jamanetwork.com/journals/jama/fullarticle/2752474"
+  },
+  {
+    "objectID": "index.html#note",
+    "href": "index.html#note",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Note",
+    "text": "Note\n\nI am trying to zoom in here on the “pain points”\nThis is based on anecdotal stories from different organizations\nThis is not based on surveys or quantitative evidence collected in a structured way"
+  },
+  {
+    "objectID": "index.html#almost-all-statisticians-are-programming",
+    "href": "index.html#almost-all-statisticians-are-programming",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "(Almost) all statisticians are programming",
+    "text": "(Almost) all statisticians are programming\n\n\nWe don’t use calculators anymore, right?\nThere are a lot of graphical tools that we can use for simple tasks …\n… but it won’t be sufficient for most biostatistics use cases\nWe learn programming, maybe already in high school, or latest in undergraduate courses\nWe wrangle, analyze, visualize, predict, … data with code every day"
+  },
+  {
+    "objectID": "index.html#but-many-dont-take-it-serious-enough",
+    "href": "index.html#but-many-dont-take-it-serious-enough",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "But many don’t take it serious enough",
+    "text": "But many don’t take it serious enough\n\n\nMost of the coding we do alone without any discussion or review\nWe often copy and paste code from each other and adapt it every time\nWe often shy away from sharing our code because we think it is too ugly\nWe often don’t take enough time to write clean code because we are too busy\nWe often just develop code locally on our laptops\nWe rarely use version control systems"
+  },
+  {
+    "objectID": "index.html#cannot-handover-to-other-statisticians",
+    "href": "index.html#cannot-handover-to-other-statisticians",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Cannot handover to other statisticians",
+    "text": "Cannot handover to other statisticians\n\n\nStatisticians (too) take vacations, go on longer leave, finish their PhD/PostDoc, etc.\nThen another statistician (peers, managers) needs to back up or take over the project\nThey might need to revisit the design or analyses and thus need to modify the code\nMight not find the code at all (because not in a version controlled repository)\nMight not be able to understand the code (because unreadable by others)"
+  },
+  {
+    "objectID": "index.html#cannot-maintain-code",
+    "href": "index.html#cannot-maintain-code",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Cannot maintain code",
+    "text": "Cannot maintain code\n\n\nNot just switching between different statisticians, but also over time, things can become difficult\n\nWhen I read code from one, two years ago, it is almost code from another person\nIf I look back at my quickly written, ugly code, which is not documented, I have a very hard time\n\nIn the “copy and paste workflow”, you can’t help anybody else\n\nIf you discover bugs, those cannot be fixed across projects in one go\nIf you add features, they cannot be used by anybody else"
+  },
+  {
+    "objectID": "index.html#cannot-prevent-bugs",
+    "href": "index.html#cannot-prevent-bugs",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Cannot prevent bugs",
+    "text": "Cannot prevent bugs\n\n\nIf we modify the code and don’t have tests, we simply don’t know if it still works correctly\nTypically we just run then the whole script again and if it does not fail with an error we think it is fine\nBut it might still produce wrong results due to new bugs\nAnd if we fix a bug, and don’t add a test for it at the same time, it might come back later\nThis is even more important in software packages that we create for us and others"
+  },
+  {
+    "objectID": "index.html#cannot-reproduce-results",
+    "href": "index.html#cannot-reproduce-results",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Cannot reproduce results",
+    "text": "Cannot reproduce results\n\n\nWhen we don’t prepare for it, new versions of software packages can lead to different results\n\nVery hard to reproduce manual steps:\n\ne.g. moving data around, running scripts, creating documents, etc.\nwould need to be thoroughly documented to have a small chance, but that is usually omitted\n\nBut Statistics is a key component of the scientific value chain …\n… thus has a responsibility to ensure reproducibility"
+  },
+  {
+    "objectID": "index.html#become-aware-of-the-issues",
+    "href": "index.html#become-aware-of-the-issues",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Become aware of the issues",
+    "text": "Become aware of the issues\n\n\nMost statisticians actually have examples where lax programming led to such problems\nLet’s realize that a lot is at stake:\nwe are not building airplanes that could fall from the sky …\n… but we are impacting important decisions!\nFor example, in a pharma company, it matters for patients that we\n\ncalculate the right sample size of a clinical trial,\nmore generally determine the right clinical trial design,\nhelp finding the right medicine candidates based on preclinical experiments,\netc."
+  },
+  {
+    "objectID": "index.html#become-aware-of-the-issues-contd",
+    "href": "index.html#become-aware-of-the-issues-contd",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Become aware of the issues (cont’d)",
+    "text": "Become aware of the issues (cont’d)\n\nSignificance, 18 (3): 6-7. https://doi.org/10.1111/1740-9713.01522"
+  },
+  {
+    "objectID": "index.html#take-programming-seriously",
+    "href": "index.html#take-programming-seriously",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Take programming seriously",
+    "text": "Take programming seriously\n\n\nWe know what we should do, let’s just take the time and energy to do it\nThere are lots of low hanging fruits:\n\norganize ourselves with standards (starts with naming conventions for files and folders)\navoid manual errors by automating repetitive tasks\nconsider double programming of key research analyses\n\nProcesses should consider code in the same priority as documents (statistical analysis plans, grant proposals, etc.)\n\nthat implies code review, good and consistent code style, ensuring business continuity, …\n\nStrive to be on par with Tech companies with regards to coding quality"
+  },
+  {
+    "objectID": "index.html#take-software-engineering-seriously-contd",
+    "href": "index.html#take-software-engineering-seriously-contd",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Take software engineering seriously (cont’d)",
+    "text": "Take software engineering seriously (cont’d)\n\nSignificance, 18 (4): 42-44. https://doi.org/10.1111/1740-9713.01554"
+  },
+  {
+    "objectID": "index.html#educate-educate-educate",
+    "href": "index.html#educate-educate-educate",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Educate, educate, educate",
+    "text": "Educate, educate, educate\n\n\nStarts with secondary schools:\n\ncomputer science should become a standard subject, not just be an extra\nsame importance as math, geography, physics, etc.\n\nContinues at university with undergraduate and graduate programs:\n\ncomputer science must become a key component of statistics and data science programs\ngood software engineering practices warrant dedicated courses\n\nContinues with post-graduate education during the work life:\nonline courses, software engineering workshops, conference sessions, etc."
+  },
+  {
+    "objectID": "index.html#establish-dedicated-teams",
+    "href": "index.html#establish-dedicated-teams",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Establish dedicated teams",
+    "text": "Establish dedicated teams\n\n\nResearch Software Engineering (RSE) teams are now established in academia, including data science institutions\nSimilarly pharma companies are establishing software engineering focused teams\nDirect focus is often development of reusable software\nWe should not stop there but also strive to improve the day to day work:\nbiostatistics, medical writing, preclinical experiments, etc.\nSoftware engineering work is complex, so we need top talents for this"
+  },
+  {
+    "objectID": "index.html#collaborate-across-organizations",
+    "href": "index.html#collaborate-across-organizations",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Collaborate across organizations",
+    "text": "Collaborate across organizations\n\n\nMore natural now that we use R and other open source software\nHas become very easy in the last decade\n(e.g. video conferencing, cloud based documents, code sharing platforms)\nLoosely coupled software modules allow to “plug and play”\n\ncombining different modules to make them fit company standards\nconnecting to internals via company specific extensions\n\nKey opportunity in contrast to previous proprietary software based, point-and-click, analyses"
+  },
+  {
+    "objectID": "index.html#r-package-crmpack",
+    "href": "index.html#r-package-crmpack",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "R Package crmPack",
+    "text": "R Package crmPack\n\n\ncrm stands for continual reassessment method (Bayesian design for dose escalation)\nWe started in 2013 with custom R scripts running JAGS code to run Markov Chain Monte Carlo (MCMC)\nRealized in 2014 that we need to have a way to avoid copy and paste of these via an R package\nPublished on CRAN in 2015\nDescribed in a paper in 2019, and other companies started to use it\nJoined forces about end of 2021 to develop the package further together"
+  },
+  {
+    "objectID": "index.html#working-group-openstatsware",
+    "href": "index.html#working-group-openstatsware",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Working group openstatsware",
+    "text": "Working group openstatsware\n\n\nHas been founded in August 2022 as working group in the ASA Biopharmaceutical Section\n\\(&gt;\\) 50 members from \\(&gt;\\) 30 pharma companies, CRO, etc.\n\nopen for new members\n\nFocuses on\n\nbuilding packages together (already on CRAN are mmrm and brms.mmrm)\ndisseminating good software engineering practices (workshops, videos)\n\nVisit openstatsware.org to learn more"
+  },
+  {
+    "objectID": "index.html#guidelines-for-good-practices",
+    "href": "index.html#guidelines-for-good-practices",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Guidelines for good practices",
+    "text": "Guidelines for good practices\n\n\nrOpenSci\n\nNon-profit initiative founded in 2011\nStaff, process, guidelines for Statistical Software Peer Review of R packages\n\nThe Turing Way\n\nStarted in 2019 as a guide for reproducibility (covering Version Control, Code Testing, and Continuous integration)\nNow encompasses guides for Reproducible Research, Project Design, Communication, Collaboration, Ethical Research\n\nopenstatsguide\n\nMinimum Viable Good Practices for High Quality Statistical Software Packages"
+  },
+  {
+    "objectID": "index.html#workshops-teaching-good-practices",
+    "href": "index.html#workshops-teaching-good-practices",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Workshops teaching good practices",
+    "text": "Workshops teaching good practices\n\n\n“Good Software Engineering Practices for R Packages”\n\n5 events in 2023 in Basel, Shanghai, San José, Rockville, and Montreal\n4 events in 2024 in Zurich, Salzburg, Beijing, and recently online at R/Pharma APAC!\n\n“The Carpentries”\n\nTeaches foundational coding and data science skills to researchers worldwide\nTeaching material on software, data, and library is available"
+  },
+  {
+    "objectID": "index.html#conclusion-1",
+    "href": "index.html#conclusion-1",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Conclusion",
+    "text": "Conclusion\n\n\nA lot in statistics depends on doing the programming well\nNow is your chance to get savvy with the tools and good practices yourselves\nYou are the next generation of statisticians - use the opportunity to improve the way we work with code!"
+  },
+  {
+    "objectID": "index.html#thank-you",
+    "href": "index.html#thank-you",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Thank you!",
+    "text": "Thank you!\nThese slides are at\ndanielinteractive.github.io/ntu-nov-2024\nWelcome to connect at\nlinkedin.com/in/danielsabanesbove\n\n\n\n\nWhy Programming is a Critical Skill for Statisticians | License"
+  }
+]
