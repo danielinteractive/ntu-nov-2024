@@ -1,0 +1,6 @@
+/.quarto/
+docs
+_site/
+quarto/
+*.html
+docs/*
