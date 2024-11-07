@@ -15,7 +15,7 @@ format:
     footer: 'Why Programming is a Critical Skill for Statisticians | [License](http://creativecommons.org/licenses/by-sa/4.0/ "License: CC BY-SA 4.0")'
 preload-iframes: true
 title-slide-attributes: 
-  data-background-image: research-progress.png
+  data-background-image: assets/research-progress.png
   data-background-size: 30%
   data-background-opacity: "1"
   data-background-position: 95% 85%
@@ -49,8 +49,26 @@ title-slide-attributes:
 - So I chose statistics because I could combine math and programming, 
   and work with medical data!
 - I was formally trained as a statistician (B.Sc., M.Sc., Ph.D.)
-- I started working in the Pharma industry as a biostatistician
+- I started working at Roche as a biostatistician
 
+:::
+
+## Pharma industry and Roche
+
+![](assets/pharma_companies.svg)
+
+## What I did at Roche
+
+::: {.incremental}
+
+- I worked in early phase oncology studies and projects:
+  - Dose escalation studies
+  - Biomarker analyses
+  - Discussions with medical doctors, regulatory experts, etc.
+  - Clinical trial protocols, statistical analysis plans, etc.
+- I also programmed a lot with R
+  - Simulation studies for dose escalation designs
+  - Developed R package for continual reassessment method (CRM) designs
 :::
 
 ## What I did *not* do during those first years
