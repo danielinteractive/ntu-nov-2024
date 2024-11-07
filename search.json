@@ -11,7 +11,21 @@
     "href": "index.html#my-path-to-statistics",
     "title": "Why Programming is a Critical Skill for Statisticians",
     "section": "My path to Statistics",
-    "text": "My path to Statistics\n\n\nI was good in math and I really liked stochastics\n(“What is the chance of winning the lottery?”)\nBut I always had fun programming\n(Remember those days of Basic and Turbo Pascal?)\nI was also interested in medicine …\n… but I could faint when watching somebody draw blood from my arm\nSo I chose statistics because I could combine math and programming, and work with medical data!\nI was formally trained as a statistician (B.Sc., M.Sc., Ph.D.)\nI started working in the Pharma industry as a biostatistician"
+    "text": "My path to Statistics\n\n\nI was good in math and I really liked stochastics\n(“What is the chance of winning the lottery?”)\nBut I always had fun programming\n(Remember those days of Basic and Turbo Pascal?)\nI was also interested in medicine …\n… but I could faint when watching somebody draw blood from my arm\nSo I chose statistics because I could combine math and programming, and work with medical data!\nI was formally trained as a statistician (B.Sc., M.Sc., Ph.D.)\nI started working at Roche as a biostatistician"
+  },
+  {
+    "objectID": "index.html#pharma-industry-and-roche",
+    "href": "index.html#pharma-industry-and-roche",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "Pharma industry and Roche",
+    "text": "Pharma industry and Roche"
+  },
+  {
+    "objectID": "index.html#what-i-did-at-roche",
+    "href": "index.html#what-i-did-at-roche",
+    "title": "Why Programming is a Critical Skill for Statisticians",
+    "section": "What I did at Roche",
+    "text": "What I did at Roche\n\n\nI worked in early phase oncology studies and projects:\n\nDose escalation studies\nBiomarker analyses\nDiscussions with medical doctors, regulatory experts, etc.\nClinical trial protocols, statistical analysis plans, etc.\n\nI also programmed a lot with R\n\nSimulation studies for dose escalation designs\nDeveloped R package for continual reassessment method (CRM) designs"
   },
   {
     "objectID": "index.html#what-i-did-not-do-during-those-first-years",
