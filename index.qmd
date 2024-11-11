@@ -132,7 +132,7 @@ title-slide-attributes:
 
 ![](assets/rconis_team.jpg)
 
-# Why is programming so critical?
+# Why is programming so critical? {background-iframe="https://cicdguy.github.io/colored-particles/"}
 
 ## Banking example
 
@@ -397,7 +397,7 @@ title-slide-attributes:
 
 # {background-image="assets/user2024.png"}
 
-# Conclusion
+# Conclusion {background-iframe="https://cicdguy.github.io/colored-particles/"}
 
 ## Conclusion
 
